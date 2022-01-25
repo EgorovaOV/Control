@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\Контрольная.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\Контрольная.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\Контрольная.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\Контрольная.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\Контрольная.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\bin\Debug\net6.0\Контрольная.exe
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\bin\Debug\net6.0\Контрольная.deps.json
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\bin\Debug\net6.0\Контрольная.runtimeconfig.json
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\bin\Debug\net6.0\Контрольная.dll
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\bin\Debug\net6.0\ref\Контрольная.dll
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\bin\Debug\net6.0\Контрольная.pdb
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\Контрольная.dll
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\ref\Контрольная.dll
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\Контрольная.pdb
+C:\Users\Ольга\Desktop\Документы Егорова О.В\ГИИКбрейнс\Контрольная\obj\Debug\net6.0\Контрольная.genruntimeconfig.cache
