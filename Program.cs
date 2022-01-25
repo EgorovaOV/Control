@@ -5,28 +5,25 @@
 
 
 string [] array = new string [] {"459159", "qwerty", "45", "jjj", "---"};
+for (int i = 0; i < array.Length; i++)
+{
+   Console.Write($"{array [i]} "); 
+}
+
+Console.Write("-> ");
+
 
 for (int i = 0; i < array.Length; i++)
 {
     string element = array[i];
     if (element.Length <= 3)
     {
-        Console.Write($element);
+        Console.Write($"{element} ");
+        
     }
-   //Console.WriteLine("1) The length of '{0}' is {1}", element, element.Length); 
+   
 }
 
 
-//string str = "abcdefg";
-//Console.WriteLine("1) The length of '{0}' is {1}", str, str.Length);
-//Console.WriteLine("2) The length of '{0}' is {1}", "xyz", "xyz".Length);
-
-//int length = str.Length;
-//Console.WriteLine("3) The length of '{0}' is {1}", str, length);
-
-// This example displays the following output:
-//    1) The length of 'abcdefg' is 7
-//    2) The length of 'xyz' is 3
-//    3) The length of 'abcdefg' is 7
 
 
