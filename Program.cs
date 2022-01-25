@@ -6,6 +6,16 @@
 
 string [] array = new string [] {"459159", "qwerty", "45", "jjj", "---"};
 
+for (int i = 0; i < array.Length; i++)
+{
+    string element = array[i];
+    if (element.Length <= 3)
+    {
+        Console.Write($element);
+    }
+   //Console.WriteLine("1) The length of '{0}' is {1}", element, element.Length); 
+}
+
 
 //string str = "abcdefg";
 //Console.WriteLine("1) The length of '{0}' is {1}", str, str.Length);
