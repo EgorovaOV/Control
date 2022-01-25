@@ -4,24 +4,23 @@
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массива
 
 
-string [] array = new string [] {"459159", "qwerty", "45", "jjj", "---"};
+string[] array = new string[] { "superpuper", "one", "Russia", "+-/*4", "$ %" };
 for (int i = 0; i < array.Length; i++)
 {
-   Console.Write($"{array [i]} "); 
+    Console.Write($"\"{array[i]}\" ");
 }
 
 Console.Write("-> ");
-
 
 for (int i = 0; i < array.Length; i++)
 {
     string element = array[i];
     if (element.Length <= 3)
     {
-        Console.Write($"{element} ");
-        
+        Console.Write($"\"{element}\" ");
+
     }
-   
+
 }
 
 
