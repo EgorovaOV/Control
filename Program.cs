@@ -8,40 +8,38 @@ string[] array = new string[] { "superpuper", "one", "Russia", "+-/*4", "$ %" };
 
 void PrintArray(string[] arr)
 {
-    int count = arr.Length;
 
-    for (int i = 0; i < count; i++)
+    for (int i = 0; i < arr.Length; i++)
     {
-        Console.Write($"\"{arr[i]}\" ");
+        Console.Write($"{arr[i]} ");
     }
     Console.WriteLine();
 }
 
-PrintArray(array);
 
-Console.Write("-> ");
-
-string Diffarray(string[] arr)
+void Diffarray(string[] arr)
 {
-    string result = String.Empty;
+    // string result = String.Empty;
 
     for (int i = 0; i < arr.Length; i++)
     {
         string element = arr[i];
         if (element.Length <= 3)
         {
-            result = result + arr[i];
+            arr[i] = element;
         }
+        else arr[i] =  string.Empty;
 
     }
-    return result;
+
 }
 
-string res = Diffarray(array);
+PrintArray(array);
+Diffarray(array);
+Console.Write("-> ");
+PrintArray(array);
 
-Console.Write(res);
 
-//PrintArray (res);не удается преобразовать из "string" в "string[]
 
 
 
