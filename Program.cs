@@ -16,12 +16,9 @@ void PrintArray(string[] arr)
     Console.WriteLine();
 }
 
-
 void Diffarray(string[] arr)
 {
-    // string result = String.Empty;
-
-    for (int i = 0; i < arr.Length; i++)
+       for (int i = 0; i < arr.Length; i++)
     {
         string element = arr[i];
         if (element.Length <= 3)
@@ -31,12 +28,14 @@ void Diffarray(string[] arr)
         else arr[i] =  string.Empty;
 
     }
-
 }
 
 PrintArray(array);
+
 Diffarray(array);
+
 Console.Write("-> ");
+
 PrintArray(array);
 
 
